@@ -41,7 +41,7 @@
             // lblTieuDe
             // 
             this.lblTieuDe.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTieuDe.Location = new System.Drawing.Point(30, 25);
+            this.lblTieuDe.Location = new System.Drawing.Point(73, 28);
             this.lblTieuDe.Name = "lblTieuDe";
             this.lblTieuDe.Size = new System.Drawing.Size(620, 45);
             this.lblTieuDe.TabIndex = 0;
@@ -50,7 +50,7 @@
             // 
             // lblNhapN
             // 
-            this.lblNhapN.Location = new System.Drawing.Point(55, 110);
+            this.lblNhapN.Location = new System.Drawing.Point(98, 113);
             this.lblNhapN.Name = "lblNhapN";
             this.lblNhapN.Size = new System.Drawing.Size(240, 30);
             this.lblNhapN.TabIndex = 1;
@@ -58,7 +58,7 @@
             // 
             // txtN
             // 
-            this.txtN.Location = new System.Drawing.Point(310, 110);
+            this.txtN.Location = new System.Drawing.Point(353, 113);
             this.txtN.Name = "txtN";
             this.txtN.Size = new System.Drawing.Size(280, 30);
             this.txtN.TabIndex = 2;
@@ -67,7 +67,7 @@
             // btnTinh
             // 
             this.btnTinh.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTinh.Location = new System.Drawing.Point(145, 175);
+            this.btnTinh.Location = new System.Drawing.Point(188, 178);
             this.btnTinh.Name = "btnTinh";
             this.btnTinh.Size = new System.Drawing.Size(170, 45);
             this.btnTinh.TabIndex = 3;
@@ -78,7 +78,7 @@
             // btnLamMoi
             // 
             this.btnLamMoi.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLamMoi.Location = new System.Drawing.Point(365, 175);
+            this.btnLamMoi.Location = new System.Drawing.Point(408, 178);
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.Size = new System.Drawing.Size(170, 45);
             this.btnLamMoi.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             // lblKetQua
             // 
-            this.lblKetQua.Location = new System.Drawing.Point(55, 255);
+            this.lblKetQua.Location = new System.Drawing.Point(98, 258);
             this.lblKetQua.Name = "lblKetQua";
             this.lblKetQua.Size = new System.Drawing.Size(300, 30);
             this.lblKetQua.TabIndex = 5;
@@ -96,7 +96,7 @@
             // 
             // txtKetQua
             // 
-            this.txtKetQua.Location = new System.Drawing.Point(55, 290);
+            this.txtKetQua.Location = new System.Drawing.Point(98, 293);
             this.txtKetQua.Multiline = true;
             this.txtKetQua.Name = "txtKetQua";
             this.txtKetQua.ReadOnly = true;
@@ -106,7 +106,7 @@
             // 
             // btnKetNoi
             // 
-            this.btnKetNoi.Location = new System.Drawing.Point(55, 370);
+            this.btnKetNoi.Location = new System.Drawing.Point(98, 373);
             this.btnKetNoi.Name = "btnKetNoi";
             this.btnKetNoi.Size = new System.Drawing.Size(150, 35);
             this.btnKetNoi.TabIndex = 7;

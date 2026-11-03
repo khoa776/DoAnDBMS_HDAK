@@ -10,3 +10,4 @@ D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
 D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
 D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe.config
 D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormBai1.resources
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormBai2.resources

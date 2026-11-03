@@ -68,6 +68,7 @@
             this.btnBai2.TabIndex = 2;
             this.btnBai2.Text = "Bài 2 - Phương trình bậc 2";
             this.btnBai2.UseVisualStyleBackColor = true;
+            this.btnBai2.Click += new System.EventHandler(this.btnBai2_Click);
             // 
             // btnBai5
             // 

@@ -22,5 +22,11 @@ namespace DoAnDBMS
             FormBai1 frm = new FormBai1();
             frm.ShowDialog();
         }
+
+        private void btnBai2_Click(object sender, EventArgs e)
+        {
+            FormBai2 frm = new FormBai2();
+            frm.ShowDialog();
+        }
     }
 }
