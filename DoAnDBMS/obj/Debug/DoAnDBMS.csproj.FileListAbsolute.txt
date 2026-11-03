@@ -1,0 +1,12 @@
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe.config
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.exe
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\bin\Debug\DoAnDBMS.pdb
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.AssemblyReference.cache
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormMain.resources
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.Properties.Resources.resources
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.GenerateResource.cache
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.csproj.CoreCompileInputs.cache
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.pdb
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.exe.config
+D:\DoAnDBMS\DoAnDBMS\DoAnDBMS\obj\Debug\DoAnDBMS.FormBai1.resources

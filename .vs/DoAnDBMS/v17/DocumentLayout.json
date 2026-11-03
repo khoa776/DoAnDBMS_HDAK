@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnDBMS\\DoAnDBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|d:\\doandbms\\doandbms\\doandbms\\formbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|solutionrelative:doandbms\\formbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|D:\\DoAnDBMS\\DoAnDBMS\\doandbms\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|solutionrelative:doandbms\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|D:\\DoAnDBMS\\DoAnDBMS\\doandbms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|solutionrelative:doandbms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|D:\\DoAnDBMS\\DoAnDBMS\\doandbms\\formbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|solutionrelative:doandbms\\formbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|D:\\DoAnDBMS\\DoAnDBMS\\doandbms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECCB82-77A3-405B-9492-32A658F67083}|DoAnDBMS\\DoAnDBMS.csproj|solutionrelative:doandbms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBai1.cs",
+              "DocumentMoniker": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormBai1.cs",
+              "RelativeDocumentMoniker": "DoAnDBMS\\FormBai1.cs",
+              "ToolTip": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormBai1.cs",
+              "RelativeToolTip": "DoAnDBMS\\FormBai1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwGMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:16:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormMain.cs",
+              "RelativeDocumentMoniker": "DoAnDBMS\\FormMain.cs",
+              "ToolTip": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormMain.cs",
+              "RelativeToolTip": "DoAnDBMS\\FormMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:44:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBai1.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormBai1.cs",
+              "RelativeDocumentMoniker": "DoAnDBMS\\FormBai1.cs",
+              "ToolTip": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormBai1.cs [Design]",
+              "RelativeToolTip": "DoAnDBMS\\FormBai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:28:54.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DoAnDBMS\\DatabaseHelper.cs",
+              "ToolTip": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\DatabaseHelper.cs",
+              "RelativeToolTip": "DoAnDBMS\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:11:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormMain.cs",
+              "RelativeDocumentMoniker": "DoAnDBMS\\FormMain.cs",
+              "ToolTip": "D:\\DoAnDBMS\\DoAnDBMS\\DoAnDBMS\\FormMain.cs [Design]",
+              "RelativeToolTip": "DoAnDBMS\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:03:56.045Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
